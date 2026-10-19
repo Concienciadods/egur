@@ -1,0 +1,18 @@
+:root{
+
+--bg:#090909;
+--surface:#111111;
+--border:#242424;
+
+--text:#ffffff;
+--text-light:#9b9b9b;
+
+--accent:#ffffff;
+
+--radius:18px;
+
+--container:1200px;
+
+--transition:.25s ease;
+
+}
